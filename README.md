@@ -8,6 +8,7 @@ In this repo we are constant deploying and attaching new knowledges and features
   - **Mix Design** - Using all 3 Design putted together in a Single Layout
 ## Version
 This project is currently being build alongside my knowledge and mastery improves, being from courses or work
+
 | Layout | Status | Ready For Use |
 | ------ | ------ | ------ |
 | Raw Design | **V-1.0** | *OK* |
