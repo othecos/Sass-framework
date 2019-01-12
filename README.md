@@ -10,10 +10,10 @@ In this repo we are constant deploying and attaching new knowledges and features
 This project is currently being build alongside my knowledge and mastery improves, being from courses or work
 | Layout | Status | Ready For Use |
 | ------ | ------ | ------ |
-| Raw Design | **V-1.0** | *OK*
-| Flex-box Design | `Building` | *NOK*
-| Grid Design | `Building`| *NOK*
-| Mix Design |  `Building`| *NOK*
+| Raw Design | **V-1.0** | *OK* |
+| Flex-box Design | `Building` | *NOK* |
+| Grid Design | `Building`| *NOK* |
+| Mix Design |  `Building`| *NOK* |
 
 ## Author
 #### Othecos
